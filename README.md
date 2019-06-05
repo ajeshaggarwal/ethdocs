@@ -2,7 +2,7 @@ Documentation
 =============
 
 * [ETHdocs.](./intro.md)
-* Overview -
+* Homepage -
     * [Intro](./intro.md)
 * Quick Start
     * [Hypotheis](guides/hypothesis.md)
