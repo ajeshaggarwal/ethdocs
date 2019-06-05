@@ -1,4 +1,4 @@
-Welcome to Ethdocs – a precision crowd-sourced blockchain content and guides collection
+Welcome to Ethdocs – a precision crowd-sourced curation of blockchain content and guides
 
 Reading up on anything blockchain online can be daunting. A lot of overlap, mistakes, partial information, even misinformation, and more could make this task much more difficult than it should be. This is a general problem with finding information on the internet and we worked hard to try to solve this problem specifically in blockchain by using technology. We hope you find this system effective and that we help save you a lot of your precious time and energy which no other should be wasting.
 
