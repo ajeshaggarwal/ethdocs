@@ -21,5 +21,3 @@ Documentation
 About
 =============
 This project is the result of an open collaboration initiative by [Zurich Blockchain RnD group](https://zbrd.org/) and [EthDevs.io](https://www.ethdevs.io/) team.
-
-* [ETHdocs.](./intro.md)
