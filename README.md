@@ -1,18 +1,15 @@
 Documentation
 =============
- * Home page
-    * [Home page](./homepage.md)
-    
+
+* [ETHdocs.](./intro.md)
+* Overview -
+    * [Intro](./intro.md)
 * Quick Start
     * [Hypotheis](guides/hypothesis.md)
-    
 * Blockchain guide for developers
     * [Programming a blockchain](guides/blockchain/guide.md)
 * Smart contracts guide
     * [Smart contracts](guides/ethereum/contracts.md)
-    
-* Dapp building guide
-    * [Dapp building](guides/Dapp%20development/readme.md)
 
 * About
     * [Contribution](about/contribution.md)
@@ -20,4 +17,4 @@ Documentation
 
 About
 =============
-This project is the result of an open collaboration initiative by [Zurich Blockchain RnD group](https://zbrd.org/) and [EthDevs.io](https://www.ethdevs.io/) team
+This project is the result of an open collaboration initiative by [Zurich Blockchain RnD group](https://zbrd.org/) and [EthDevs.io](https://www.ethdevs.io/) team.
