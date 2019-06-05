@@ -1,9 +1,11 @@
 Documentation
 =============
-* [Home page](./intro.md)
+ * Home page
+    * [Home page](./homepage.md)
     
 * Quick Start
     * [Hypotheis](guides/hypothesis.md)
+    
 * Blockchain guide for developers
     * [Programming a blockchain](guides/blockchain/guide.md)
 * Smart contracts guide
