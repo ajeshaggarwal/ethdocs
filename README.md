@@ -6,8 +6,6 @@ Documentation
 * Quick Start
     * [Hypotheis](guides/hypothesis.md)
 
-=============
-
 * Blockchain guide for developers
     * [Programming a blockchain](guides/blockchain/guide.md)
 
