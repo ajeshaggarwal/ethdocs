@@ -1,7 +1,8 @@
 Documentation
 =============
- * Home page
-    * [Home page](./homepage.md)
+ * Homepage
+
+    * [Homepage](./index.md)
     
 * Quick Start
     * [Hypotheis](guides/hypothesis.md)
