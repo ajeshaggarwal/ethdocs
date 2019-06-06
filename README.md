@@ -13,7 +13,7 @@ Documentation
     * [Smart contracts](guides/ethereum/contracts.md)
     
 * Dapp building guide
-    * [Dapp building](guides/Dapp%20development/readme.md)
+    * [Dapp building](guides/Dapp development/readme.md)
 
 * About
     * [Contribution](about/contribution.md)
