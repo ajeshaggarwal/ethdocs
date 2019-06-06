@@ -1,9 +1,8 @@
 Documentation
 =============
 
-* [ETHdocs.](./intro.md)
 * Homepage -
-    * [Intro](./intro.md)
+    * [Homepage](./homepage.md)
 * Quick Start
     * [Hypotheis](guides/hypothesis.md)
 * Blockchain guide for developers
@@ -17,4 +16,4 @@ Documentation
 
 About
 =============
-This project is the result of an open collaboration initiative by [Zurich Blockchain RnD group](https://zbrd.org/) and [EthDevs.io](https://www.ethdevs.io/) team.
+This project is the result of an open collaboration initiative by [Zurich Blockchain RnD group](https://zbrd.org/) and [EthDevs.io](https://www.ethdevs.io/) team
