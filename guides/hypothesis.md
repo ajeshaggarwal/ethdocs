@@ -1,15 +1,14 @@
-# Installing Hypothesis
-
+# Getting started with Hypothes on desktop and mobile
 
 In order to follow our curation and to become a part of the conversation, you will need the Hypothes browser extension.
 Hypothes is a tool that allows us to make annotations across the internet and to have discussions around them.
 Hypothes also does a lot more and it's a very exciting and powerful piece of tech. With tools like these we can detach together from 
 the confinements of the traditional way of exploring the internet. See you on the other side!
 
-## To install on desktop:
+## Run on desktop:
 Just follow our group [Blockchain programing](https://hypothes.is/groups/wg6R1aKJ/blockchain-programming). This should take you through the registration process and installation of the extension in Brave or Chrome.
 
-## To install on Android:
+## Run on Android:
 
 Hypothes is natively supported on Chrome in Android. no need to install anything, just login.
 
