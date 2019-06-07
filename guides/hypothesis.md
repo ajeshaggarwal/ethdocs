@@ -6,7 +6,7 @@ Hypothes also does a lot more and it's a very exciting and powerful piece of tec
 the confinements of the traditional way of exploring the internet. See you on the other side!
 
 ## Run on desktop:
-Just follow our group [Blockchain programing](https://hypothes.is/groups/wg6R1aKJ/blockchain-programming). This should take you through the registration process and installation of the extension in Brave or Chrome.
+Just follow our group [Welcome to Hypothes](https://hypothes.is/groups/V9Ygwowm/welcome-to-hypothes). This should take you through the registration process and installation of the extension in Brave or Chrome.
 
 ## Run on Android:
 
