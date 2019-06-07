@@ -10,8 +10,11 @@ the confinements of the traditional way of exploring the internet. See you on th
 Just follow our group [Blockchain programing](https://hypothes.is/groups/wg6R1aKJ/blockchain-programming). This should take you through the registration process and installation of the extension in Brave or Chrome.
 
 ## To install on Android:
-We need a browser that can support the Hypothes chrome extension. We currently only know about Yandex and it does a pretty good job 
-(though not perfect).
+
+Hypothes is natively supported on Chrome in Android. no need to install anything, just login.
+
+## Alternative Android browser with native Chrome extension support
+If you want a browser that supports Chrome extensions on Android, you can use Yandex. hypothes runs on it
 
 1. Download Yandex browser from your android device: [Yandex browser with protect](https://play.google.com/store/apps/details?id=com.yandex.browser&hl=en)
 2. In Yandex you can click this [link](https://chrome.google.com/webstore/detail/hypothesis-web-pdf-annota/bjfhmglciegochdpefhhlphglcehbmek) and add the extension or find and add "Hypothesis - Web & PDF Annotation" through the 
